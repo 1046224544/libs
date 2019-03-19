@@ -1,3 +1,0 @@
-1：npm 下载  npm install uglify-js -g 安装
-2：cd 到目标文件夹
-3:  uglifyjs 源文件.js -o 目标文件-min.js 或者 uglifyjs 源文件.js -m -o 目标文件-min.js -m更小，-m参数所以就是把变量名变成a, b, c, d
